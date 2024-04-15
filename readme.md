@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project Description
 
 This project utilizes the power of Natural Language Processing (NLP) and Machine Learning (ML) to predict answers based on given questions. It is designed to understand and analyze human language, making it capable of intelligent guessing.
@@ -14,3 +15,6 @@ The project also includes utility functions for calculating word overlap between
 - **Batch Guessing**: The system can handle multiple questions at once, providing a set of predictions for each.
 - **Utility Functions**: The project includes utility functions for calculating word overlap and for printing out snippets of top guesses.
 - **Command-Line Interface**: The main function uses command-line arguments to set various parameters for the guesser and the training process.
+=======
+
+>>>>>>> d9b4f014a24e9ef2b3f5f754c9cf4d9b0221ce95
